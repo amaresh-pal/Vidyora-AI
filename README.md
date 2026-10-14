@@ -1,4 +1,4 @@
-# Vidyora AI — An Agentic AI-Powered Personalized Learning Platform
+## Vidyora AI — An Agentic AI-Powered Personalized Learning Platform
 
 > **"Learn in Your Language. Learn at Your Pace."**  
 > **Hackathon:** NEXTECH 2.0 | NMIET | NIRMIT 2026  
